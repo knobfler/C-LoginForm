@@ -1,0 +1,13 @@
+c:\users\user\source\repos\LoginForm\LoginForm\bin\Debug\LoginForm.exe.config
+c:\users\user\source\repos\LoginForm\LoginForm\bin\Debug\LoginForm.exe
+c:\users\user\source\repos\LoginForm\LoginForm\bin\Debug\LoginForm.pdb
+c:\users\user\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.Form1.resources
+c:\users\user\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+c:\users\user\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.cache
+c:\users\user\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.exe
+c:\users\user\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.pdb
+c:\users\user\source\repos\LoginForm\LoginForm\bin\Debug\MySql.Data.dll
+c:\users\user\source\repos\LoginForm\LoginForm\bin\Debug\MySql.Data.xml
+c:\users\user\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.CopyComplete
